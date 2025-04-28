@@ -1,4 +1,4 @@
-Prework - MyFirstApp
+#Prework - MyFirstApp 
 Submitted by: Valerie Pena
 
 MyFirstApp is an app that displays a screen with my name, my university, and my aspirational career. It includes a button that, when pressed, changes the background to a randomly generated gradient color. The app demonstrates the basics of UI layout, button interaction, and dynamic styling with Swift.
